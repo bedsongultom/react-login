@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-login/static/css/main.923c09db.css",
-    "main.js": "/react-login/static/js/main.31421f4c.js",
+    "main.js": "/react-login/static/js/main.77ec12f6.js",
     "static/media/BaiJamjuree-Italic.ttf": "/react-login/static/media/BaiJamjuree-Italic.9bc44d02f7948c90f5b9.ttf",
     "static/media/BaiJamjuree-BoldItalic.ttf": "/react-login/static/media/BaiJamjuree-BoldItalic.48de72c56bc71a15f7d4.ttf",
     "static/media/BaiJamjuree-Medium.ttf": "/react-login/static/media/BaiJamjuree-Medium.e9ce20a140d9d6fd2425.ttf",
@@ -9,10 +9,10 @@
     "static/media/BaiJamjuree-Bold.ttf": "/react-login/static/media/BaiJamjuree-Bold.da1cfc75e1ff64984f88.ttf",
     "index.html": "/react-login/index.html",
     "main.923c09db.css.map": "/react-login/static/css/main.923c09db.css.map",
-    "main.31421f4c.js.map": "/react-login/static/js/main.31421f4c.js.map"
+    "main.77ec12f6.js.map": "/react-login/static/js/main.77ec12f6.js.map"
   },
   "entrypoints": [
     "static/css/main.923c09db.css",
-    "static/js/main.31421f4c.js"
+    "static/js/main.77ec12f6.js"
   ]
 }
