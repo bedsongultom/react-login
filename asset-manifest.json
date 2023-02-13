@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-login/static/css/main.94d5ee86.css",
-    "main.js": "/react-login/static/js/main.62c042f0.js",
+    "main.css": "/react-login/static/css/main.7860f40e.css",
+    "main.js": "/react-login/static/js/main.0e7f6b7a.js",
     "static/media/BaiJamjuree-Italic.ttf": "/react-login/static/media/BaiJamjuree-Italic.9bc44d02f7948c90f5b9.ttf",
     "static/media/BaiJamjuree-BoldItalic.ttf": "/react-login/static/media/BaiJamjuree-BoldItalic.48de72c56bc71a15f7d4.ttf",
     "static/media/BaiJamjuree-Medium.ttf": "/react-login/static/media/BaiJamjuree-Medium.e9ce20a140d9d6fd2425.ttf",
     "static/media/BaiJamjuree-Regular.ttf": "/react-login/static/media/BaiJamjuree-Regular.b6013786559eeb4c3543.ttf",
     "static/media/BaiJamjuree-Bold.ttf": "/react-login/static/media/BaiJamjuree-Bold.da1cfc75e1ff64984f88.ttf",
     "index.html": "/react-login/index.html",
-    "main.94d5ee86.css.map": "/react-login/static/css/main.94d5ee86.css.map",
-    "main.62c042f0.js.map": "/react-login/static/js/main.62c042f0.js.map"
+    "main.7860f40e.css.map": "/react-login/static/css/main.7860f40e.css.map",
+    "main.0e7f6b7a.js.map": "/react-login/static/js/main.0e7f6b7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.94d5ee86.css",
-    "static/js/main.62c042f0.js"
+    "static/css/main.7860f40e.css",
+    "static/js/main.0e7f6b7a.js"
   ]
 }
